@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Meu Blog</title>
+	<style type="text/css">
+		.Título {
+			color: red;
+		}
+		.texto {
+			color: darkslategray;
+			float: right;
+		}
+
+
+	</style>
+</head>
+<body>
+	<div class="site_título">
+		<img width="100px" src="https://play-lh.googleusercontent.com/-ujydqANij910osrJ2Et5ce64f-Qq31RSP1w7EbZ5L5ovVG9UoPvYd3hVb9oESbTsDxk">
+		<h1 style="float:right" style="color:black; font-weight:bold;font-size: 105px;">Blog de Notícias</h1>
+	</div>
+<hr>
+	
+
+<div class="Variedades">
+	<h1 class="Título">Piloto de motocross morre em queda no Mato Grosso</h1>
+	<p class="texto">Um acidente ocorrido na 4ª Etapa do Campeonato Estadual de Motocross do Mato Grosso, realizada em Juara, distante 690 km de Cuiabá, capital do estado, acabou vitimando o piloto Weliton Carvalho da Silva, de 32 anos, no último domingo. Na última volta do campeonato, Weliton tentou saltar de uma rampa e, ao cair no 'chão reto' e não na própria rampa, acabou ficando inconsciente no solo.</p>
+	<img width="200px" height="200px" src="https://www.midianews.com.br/storage/webdisco/2022/06/27/886x590/aac707e8be1a8b3b0d83a43db2c54568.jpg">
+
+</div>
+<hr>
+	
+
+	<div class="esportes">
+	<h1 class="Título">Beisebol: arremessador brasileiro estreará na MLB</h1>
+	<p class="texto">Luiz Gohara, de 21 anos, será titular no Atlanta Braves nesta terça-feira e se tornará o quinto brasileiro a atuar na principal liga de beisebol dos EUA</p>
+	<img width="200px" height="200px" src="https://veja.abril.com.br/wp-content/uploads/2017/09/luiz-gohara.jpg?quality=70&strip=info&resize=850,567">
+
+	</div>
+	<hr>
+
+
+<div class="Ciência">
+	<h1 class="Título">Já está a caminho do espaço! A CAPSTONE da NASA será referência para retorno à Lua</h1>
+	<p class="texto">A NASA realizou na última terça-feira (28), o lançamento da pequena espaçonave CAPSTONE, pelo Electron do Rocket Lab, que tem a missão de chegar até à Lua no dia 13 de novembro.</p>
+	<img width="200px" height="200px" src="https://www.bitmag.com.br/wp-content/uploads/2022/06/c9Acu6Mn63fXwxvYv8QsWT-970-80.png.webp">
+</div>
+<hr>
+
+<div class="esportes">
+	<h1 class="Título">Brasil faz lição de casa e confirma vaga na fase final da VNL</h1>
+	<p class="texto">Brasil é mais um a surrar o saco de pancadas da Liga das Nações e garante vaga nas quartas de final</p>
+	<img width="200px" height="200px" src="https://www.olimpiadatododia.com.br/wp-content/uploads/2022/06/brasil-selecao-feminina-volei-feminino-liga-nacoes-edit.jpg">
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
