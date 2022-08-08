@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Formulário</title>
+	<h1>Preenchimento de formulário</h1>
+</head>
+<body>
+	<form><h1>Nome</h1><input type="text" name="Nome"><h1>Idade</h1><input type="number" name="Idade"> <h1>Sexo</h1> <select name="">
+	<option value="Feminino">Feminino</option>
+	<option value="Masculino">Masculino</option>
+	</select>
+	<h1>Endereço, Número e CEP</h1><input type="text"><input type="Number"><input type="text">
+	<h1>Biografia</h1><input type="Text">
+	<h1></h1>	
+	<input type="Submit">
+
+
+
+
+
+
+</form>
+
+
+
+</body>
+</html>
